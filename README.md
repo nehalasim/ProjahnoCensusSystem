@@ -30,16 +30,30 @@ The system also provides previous, current, and upcoming visit information to su
     </td>
   </tr>
 </table>
-<p align="center">
-### Household survey question
-<img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Login Screen">
 
-### Member list
-<img src="img/BottomMenuIcon/page_29_image_01.jpeg" width="200" alt="Login Screen">
 
-### Member profile
-<img src="img/BottomMenuIcon/page_15_image_01.jpeg" width="200" alt="Login Screen">
-</p>
+
+<table>
+  <tr>
+    <td align="center"><b>Household Survey Question</b></td>
+    <td align="center"><b>Member List</b></td>
+    <td align="center"><b>Member Profile</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Household Survey Question">
+    </td>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_29_image_01.jpeg" width="200" alt="Member List">
+    </td>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_15_image_01.jpeg" width="200" alt="Member Profile">
+    </td>
+  </tr>
+</table>
+
+
+
 ## Key Features
 
 ### CHW & Household Management
