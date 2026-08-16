@@ -41,7 +41,7 @@ The system also provides previous, current, and upcoming visit information to su
   </tr>
   <tr>
     <td align="center">
-      <img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Household Survey Question">
+      <img src="img/BottomMenuIcon/page_30_image_01.jpeg" width="200" alt="Household Survey Question">
     </td>
     <td align="center">
       <img src="img/BottomMenuIcon/page_29_image_01.jpeg" width="200" alt="Member List">
