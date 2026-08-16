@@ -12,7 +12,7 @@ The system also provides previous, current, and upcoming visit information to su
 
 
 ## Screenshots
-
+<p align="center">
 ### Login Screen
 <img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="200" alt="Login Screen">
 
@@ -21,7 +21,9 @@ The system also provides previous, current, and upcoming visit information to su
 
 ### Household list
 <img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="200" alt="Login Screen">
+</p>
 
+<p align="center">
 ### Household survey question
 <img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Login Screen">
 
@@ -30,7 +32,7 @@ The system also provides previous, current, and upcoming visit information to su
 
 ### Member profile
 <img src="img/BottomMenuIcon/page_15_image_01.jpeg" width="200" alt="Login Screen">
-
+</p>
 ## Key Features
 
 ### CHW & Household Management
