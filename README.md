@@ -14,8 +14,8 @@ The system also provides previous, current, and upcoming visit information to su
 ## Screenshots
 
 ### Login Screen
-![Login Screen](img/BottomMenuIcon/page_24_image_01.jpeg)
 
+<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="250" alt="Login Screen">
 
 ## Key Features
 
