@@ -20,13 +20,13 @@ The system also provides previous, current, and upcoming visit information to su
   </tr>
   <tr>
     <td align="center">
-      <img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="250" alt="Login Screen">
+      <img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="200" alt="Login Screen">
     </td>
     <td align="center">
-      <img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="250" alt="Dashboard">
+      <img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="200" alt="Dashboard">
     </td>
     <td align="center">
-      <img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="250" alt="Household List">
+      <img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="200" alt="Household List">
     </td>
   </tr>
 </table>
