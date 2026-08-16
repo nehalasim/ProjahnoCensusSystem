@@ -14,13 +14,13 @@ The system also provides previous, current, and upcoming visit information to su
 ## Screenshots
 <p align="center">
 ### Login Screen
-<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="200" alt="Login Screen">
+<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="30%" alt="Login Screen">
 
 ### Dashboard
-<img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="200" alt="Login Screen">
+<img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="30%" alt="Login Screen">
 
 ### Household list
-<img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="200" alt="Login Screen">
+<img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="30%" alt="Login Screen">
 </p>
 
 <p align="center">
