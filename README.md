@@ -14,8 +14,22 @@ The system also provides previous, current, and upcoming visit information to su
 ## Screenshots
 
 ### Login Screen
+<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="200" alt="Login Screen">
 
-<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="250" alt="Login Screen">
+### Dashboard
+<img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="200" alt="Login Screen">
+
+### Household list
+<img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="200" alt="Login Screen">
+
+### Household survey question
+<img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Login Screen">
+
+### Member list
+<img src="img/BottomMenuIcon/page_29_image_01.jpeg" width="200" alt="Login Screen">
+
+### Member profile
+<img src="img/BottomMenuIcon/page_15_image_01.jpeg" width="200" alt="Login Screen">
 
 ## Key Features
 
