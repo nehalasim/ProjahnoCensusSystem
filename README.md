@@ -10,6 +10,13 @@ Each CHW has an individual user account and is assigned specific **clusters, blo
 
 The system also provides previous, current, and upcoming visit information to support field planning and follow-up activities.
 
+
+## Screenshots
+
+### Login Screen
+![Login Screen](img/BottomMenuIcon/page_24_image_01.jpeg)
+
+
 ## Key Features
 
 ### CHW & Household Management
