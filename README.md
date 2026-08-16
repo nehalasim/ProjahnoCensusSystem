@@ -12,17 +12,24 @@ The system also provides previous, current, and upcoming visit information to su
 
 
 ## Screenshots
-<p align="center">
-### Login Screen
-<img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="30%" alt="Login Screen">
-
-### Dashboard
-<img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="30%" alt="Login Screen">
-
-### Household list
-<img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="30%" alt="Login Screen">
-</p>
-
+<table>
+  <tr>
+    <td align="center"><b>Login Screen</b></td>
+    <td align="center"><b>Dashboard</b></td>
+    <td align="center"><b>Household List</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="250" alt="Login Screen">
+    </td>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="250" alt="Dashboard">
+    </td>
+    <td align="center">
+      <img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="250" alt="Household List">
+    </td>
+  </tr>
+</table>
 <p align="center">
 ### Household survey question
 <img src="img/BottomMenuIcon/page_31_image_01.jpeg" width="200" alt="Login Screen">
