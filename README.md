@@ -11,49 +11,6 @@ Each CHW has an individual user account and is assigned specific **clusters, blo
 The system also provides previous, current, and upcoming visit information to support field planning and follow-up activities.
 
 
-## Screenshots
-<table>
-  <tr>
-    <td align="center"><b>Login Screen</b></td>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Household List</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_24_image_01.jpeg" width="200" alt="Login Screen">
-    </td>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_04_image_01.jpeg" width="200" alt="Dashboard">
-    </td>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_26_image_01.jpeg" width="200" alt="Household List">
-    </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <td align="center"><b>Household Survey Question</b></td>
-    <td align="center"><b>Member List</b></td>
-    <td align="center"><b>Member Profile</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_30_image_01.jpeg" width="200" alt="Household Survey Question">
-    </td>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_29_image_01.jpeg" width="200" alt="Member List">
-    </td>
-    <td align="center">
-      <img src="img/BottomMenuIcon/page_15_image_01.jpeg" width="200" alt="Member Profile">
-    </td>
-  </tr>
-</table>
-
-
-
 ## Key Features
 
 ### CHW & Household Management
